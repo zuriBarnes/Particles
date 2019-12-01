@@ -53,7 +53,7 @@ main {
     18rem 24rem 0rem 0 var(--snowflake-color);
     transition: ease-in-out;
     animation-name: transformation;
-    animation-duration: 1.5s;
+    animation-duration: 7.5s;
     animation-fill-mode: forwards;
     animation-direction:alternate;
     animation-timing-function: linear;
